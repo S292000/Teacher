@@ -1,0 +1,29 @@
+/* * {
+  background-color: blue;
+} */
+
+body {
+  font-family: var(--ff-secondary);
+  background: rgb(66, 65, 65);
+  color: var(--clr-grey-1);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+h1,
+h2 {
+  color: #1cdfe3;
+}
+.heading {
+  font-size: 4rem;
+}
+.call {
+  font-size: 3.5rem;
+}
+p {
+  color: #1cdfe3;
+  font-size: 2rem;
+}
+article {
+  color: #0cf358;
+  font-size: 2rem;
+}
